@@ -29,7 +29,7 @@ Selamat datang di repositori **United Teknologi Integrasi**. Kami menyediakan so
 - **IT Infrastructure**
 - **Network & Security**
 - **Cyber Security**
-- **IoT (Internet of Things)**
+- **IoT (Internet of  Things)**
 - **Unified Communication**
 - **Third Party Maintenance**
 - **PC/Laptop Solutions**
