@@ -54,5 +54,5 @@ Selamat datang di repositori **United Teknologi Integrasi**. Kami menyediakan so
 # Cara Menggunakan Website Company United Teknologi Integrasi
 buka cmd/git bash di folder c:xampp/htdocs lalu copy code ini dan jalankan
 ```bash
-git clone https://github.com/username/united-teknologi-integrasi.git
+git clone https://github.com/DionAhza/WebUTI.git
 ```
